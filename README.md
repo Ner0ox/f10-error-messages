@@ -1,7 +1,5 @@
 # Error messages for the BMW F10 Cluster
 
-# [NEW] ADDED CHECK ENGINE LIGHT
-
 # Usage
 
 > [!NOTE]
