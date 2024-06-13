@@ -1,5 +1,6 @@
 # Error messages for the BMW F10 Cluster
 
+# [NEW] ADDED CHECK ENGINE LIGHT
 
 # Usage
 
@@ -33,7 +34,8 @@ void sendAlerts() {
 31 Increased Emissions!
 32 Filler cap open!
 33 Engine fault! Drive Moderately.
-34 , 35 DSC
+34 Check Engine light
+35 DSC
 36 DSC OFF
 37 Trigger
 38 DSC Deactivated
